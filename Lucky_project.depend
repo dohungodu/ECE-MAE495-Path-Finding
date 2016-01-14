@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1448690464 source:c:\users\home\documents\github\car-mapping\1. in developing\lucky\runningcar.cpp
+	"runningcar.h"
+	<windows.h>
+	<iostream>
+	<string>
+	<sstream>
+
+1448690425 c:\users\home\documents\github\car-mapping\1. in developing\lucky\runningcar.h
+
+1448598384 source:c:\users\home\documents\github\car-mapping\1. in developing\lucky\serial.cpp
+	"Serial.h"
+
+1448598409 c:\users\home\documents\github\car-mapping\1. in developing\lucky\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1450293550 source:c:\users\home\dropbox\mae 495 project mapping\lucky\main.cpp
+	<iostream>
+	<tchar.h>
+	"runningcar.h"
+	<string>
+	<sstream>
+	"Serial.h"
+
+1451704120 c:\users\home\dropbox\mae 495 project mapping\lucky\runningcar.h
+
+1448598409 c:\users\home\dropbox\mae 495 project mapping\lucky\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1450293318 source:c:\users\home\dropbox\mae 495 project mapping\lucky\runningcar.cpp
+	"runningcar.h"
+	<windows.h>
+	<iostream>
+	<string>
+	<sstream>
+
+1448598384 source:c:\users\home\dropbox\mae 495 project mapping\lucky\serial.cpp
+	"Serial.h"
+
