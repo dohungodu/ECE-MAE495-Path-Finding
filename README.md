@@ -10,3 +10,6 @@ Implement an algorithm for a car to go from start-position to finish-position an
 
 ##Advisor
 Dr. Hou, Mechanical Engineering Department, Old Dominion University
+
+##Video
+<a href="https://www.youtube.com/embed/cLKMZp5bGi0">How it run</a>
