@@ -1,4 +1,4 @@
-# ECE-MAE495-Path-Finding Spring 2016
+# ECE-MAE495-Path-Finding
 
 ##Project Purpose
 Implement an algorithm for a car to go from start-position to finish-position and avoid obstacles.
